@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: TAPTA MUSIC
+title: TaptaMusic
 description: enjoy the music of tapta songs 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://taptamusic.github.io" # the base hostname & protocol for your site
 
 # Profiles
-facebook_username: jkmangang
+facebook_username: "jkmangang"
 github_username: jkmangang
 googleplus_username: 
 instagram_username: jkmangang
